@@ -1,1 +1,1 @@
-Darrien's Stock Extrapolation software with unique algorithm
+An attempt at stock extrapolation using machine learning and standard regression techniques. Work in progress.
